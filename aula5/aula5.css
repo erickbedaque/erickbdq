@@ -1,0 +1,25 @@
+p {
+    color: antiquewhite;
+    font-size: 18;
+}
+#textoExemplo {
+    color: cornflowerblue;
+    font-size: 18;
+}
+h1, h2, h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.textoitalico{
+    font-style: italic;
+}
+.div1{
+    background-color: aqua;
+}
+.div2{
+    background-color: purple;
+}
+.div3{
+    background-color: rgb(255, 255, 255);
+}
+
+
