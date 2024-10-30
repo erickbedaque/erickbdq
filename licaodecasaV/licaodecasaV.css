@@ -1,17 +1,32 @@
 #nomeblog {
     color: brown;
+
 }
 body {
     font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #rickroll {
     background-color: red;
+    text-decoration:  none;
 }
 body {
     text-align: center;
 }
 h2, h1 {
     font-size: 200%;
+}
+#issacdancando{
+    position:relative
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+aside{
+    text-decoration: none;
+}
+.canecadogengar{
+    margin: 50px 50px;
+    
 }
    
 
