@@ -1,0 +1,14 @@
+#links :hover {
+
+    text-shadow: 2px;
+    background-color: lightgrey;
+    opacity: 50%;
+    color: grey;
+
+}
+
+#goat :hover {
+    
+    background-color: gold;
+
+}
