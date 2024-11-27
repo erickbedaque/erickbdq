@@ -1,0 +1,50 @@
+.card img {
+    width: 100px;
+    height: 100px;
+    animation: rotate 01s linear infinite;
+    
+}
+
+.card {
+    background-color: mediumaquamarine;
+    background: linear-gradient(#fc561f, #ff835a, #ffb69e, #f9b6c5, #e9b6c5);
+    transition: all 1s ease;
+}
+
+.card:hover {
+ opacity: 0.5;
+ transform: scale(1.05)
+}
+
+body {
+    background-image: url(shadow\ guys.jpg);
+    background-repeat:  no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    height: 100vh;    
+}
+
+h3 {
+    text-shadow: 2px 2px 2px black;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg)
+    }
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@keyframes move {
+    0% {
+        transform: translateX(-100%);
+    }
+    50% {
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}

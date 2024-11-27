@@ -1,0 +1,47 @@
+#nomeblog {
+    color: brown;
+
+}
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#rickroll {
+    background-color: red;
+    text-decoration:  none;
+}
+h2, h1 {
+    font-size: 200%;
+}
+#issacdancando{
+    position:relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+aside{
+    text-decoration: none;
+}
+.canecadogengar{
+    margin: 50px 50px;
+
+}
+h3{
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img[src = "imagens/sayorivascaina.jpg"] {
+    width: 250px;;
+}
+img[src ^= "imagens/"] {
+    width: 250px;
+    border-radius: 50px;
+    /*justify content eh na horizontal
+    align eh na vertical
+    
+    */
+}
+
+
+   
+
