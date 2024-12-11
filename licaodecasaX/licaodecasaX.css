@@ -1,0 +1,15 @@
+body {
+
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(https://quenotebookcomprar.com.br/wp-content/webp-express/webp-images/uploads/2014/02/Qual-o-Notebook-do-Sheldon-Cooper.jpg.webp);
+    font-size: larger;
+}
+
+nav>a:hover {
+
+    background-color: gray;
+    text-shadow: 2px;
+    opacity: 45%;
+
+}
