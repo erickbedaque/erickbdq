@@ -1,0 +1,26 @@
+.nav_bar {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nav_search {
+
+    display: flex;
+
+}
+
+.profile_infos {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.profile_info_content {
+
+    display: flex;
+    justify-content: space-between;
+
+}
